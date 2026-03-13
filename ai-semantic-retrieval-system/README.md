@@ -70,7 +70,15 @@ streamlit run ui.py
 ## Future Improvements
 - Integration with distributed vector database (Endee)  
 - Hybrid search (semantic + keyword)  
-- Multi-document reasoning  
+- Multi-document reasoning
+
+## Demo Workflow
+
+- Upload document
+- System generates embeddings
+- Ask question
+- System retrieves context
+- AI generates grounded answer
 
 ## Author
 Devang Varshney  
